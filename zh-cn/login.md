@@ -14,4 +14,6 @@
 
 ---
 
+[隐私政策](/zh-cn/agreement/隐私政策.md)
+
 [逸仙卡](/zh-cn/sysu_card.md)
