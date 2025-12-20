@@ -1,12 +1,11 @@
-![logo](_src/logo.png)
+![logo](../_src/logo.png)
 
-# SYSUER <small>1.0.1</small>
+# 中大儿 <small>1.0.1</small>
 
-> A magical documentation site generator.
+> 一款适用于中大学生的软件
 
-- Simple and lightweight
-- Neat Appearnce
-- Multiple functions
+[项目](https://github.com/SYSU-Tang/sysuer)
 
-[GitHub](https://github.com/SYSU-Tang/sysuer)
-[Get Started](#Headline)
+[开始](/zh-cn/README)
+
+[下载](https://sysu-tang.github.io/app-release-v1.0.1.apk)
