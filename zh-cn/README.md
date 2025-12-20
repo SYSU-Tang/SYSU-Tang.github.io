@@ -24,4 +24,4 @@
 
 ---
 
-[开始使用](/zh-cn/agreement/用户协议.md)
+[用户协议](/zh-cn/agreement/用户协议.md)
