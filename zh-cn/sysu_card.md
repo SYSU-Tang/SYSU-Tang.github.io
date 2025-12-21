@@ -11,3 +11,5 @@
 ---
 
 [登录](/zh-cn/login)
+
+[网页脚本](/zh-cn/script.md)

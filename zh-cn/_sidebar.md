@@ -11,3 +11,5 @@
     * [登录](/zh-cn/login)
     
     * [逸仙卡](/zh-cn/sysu_card)
+
+    * [网页脚本](/zh-cn/script)
