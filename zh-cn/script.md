@@ -13,3 +13,5 @@
 ---
 
 [逸仙卡](/zh-cn/sysu_card)
+
+[评教](/zh-cn/evaluation)

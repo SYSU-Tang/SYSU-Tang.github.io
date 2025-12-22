@@ -13,3 +13,5 @@
     * [逸仙卡](/zh-cn/sysu_card)
 
     * [网页脚本](/zh-cn/script)
+
+    * [评教](/zh-cn/evaluation)
