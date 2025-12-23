@@ -1,7 +1,7 @@
 {
-"version":1924,
-"versionName":"1.0.1",
-"enforce":false,
-  "link":"https://sysu-tang.github.io/app-release-v1.0.1.apk",
-"description":"1.修复Bugs,完善代码。\n2.添加新功能。"
+  "version": 1925,
+  "versionName": "1.0.2",
+  "enforce": false,
+  "link": "https://sysu-tang.github.io/app-release-v1.0.2.apk",
+  "description": "1.修复闪退。\n2.去除未实现的部分功能。\n3.修复出现2个图标的bugs。\n4.优化逻辑"
 }
