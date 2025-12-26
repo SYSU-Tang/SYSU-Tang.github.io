@@ -15,3 +15,5 @@
     * [网页脚本](/zh-cn/script)
 
     * [评教](/zh-cn/evaluation)
+
+    * [面板](/zh-cn/dashboard)
