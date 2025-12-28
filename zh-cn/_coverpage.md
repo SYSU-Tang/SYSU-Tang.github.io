@@ -1,6 +1,6 @@
 ![logo](../_src/logo.png)
 
-# 中大儿 <small>1.0.1</small>
+# 中大儿 <small>1.0.3</small>
 
 > 一款适用于中大学生的软件
 
