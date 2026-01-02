@@ -1,7 +1,7 @@
 {
-  "version": 1926,
-  "versionName": "1.0.3",
+  "version": 1927,
+  "versionName": "1.0.4",
   "enforce": false,
-  "link": "https://sysu-tang.github.io/app-release-v1.0.3.apk",
+  "link": "https://sysu-tang.github.io/app-release-v1.0.4.apk",
   "description": "# 1.0.4（1927）更新内容\n### 新增\n\n1. 已选课程查询\n2. 校历图片保存和分享功能\n3. 开放选课功能（测试阶段）\n4. 去除登录界面的打勾按钮\n5. 全校培养方案查询功能\n\n### 修复\n\n1. 平板设备课程表闪退\n2. 一月份无法打开课程表\n3. 登录后界面异常\n4. 自习室查询参数错误\n5. 优化课程表界面"
 }
