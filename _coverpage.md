@@ -6,4 +6,4 @@
 
 [项目](https://github.com/SYSU-Tang/sysuer)
 [开始](/zh-cn/README)
-[下载](https://sysu-tang.github.io/app-release-v1.0.4.apk)
+[下载](https://sysu-tang.github.io/app-release-v1.0.6.apk)
