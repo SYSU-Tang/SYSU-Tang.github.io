@@ -3,5 +3,5 @@
   "versionName": "1.0.7",
   "enforce": false,
   "link": "https://sysu-tang.github.io/app-release-v1.0.7.apk",
-  "description": "# 1.0.7（1930）更新内容\n\n### 新增\n\n1. 校园网管理\n2. 离返校登记\n3. 选课预览功能\n\n### 修复\n\n1. 等级制查看成绩 （已失效）\n2. 新用户登录页面闪退\n3. 选课的一些BUGS"
+  "description": "# 1.0.7（1930）\n##更新内容\n\n### 新增\n\n1. 校园网管理\n2. 离返校登记\n3. 选课预览功能\n\n### 修复\n\n1. 等级制查看成绩 （已失效）\n2. 新用户登录页面闪退\n3. 选课的一些BUGS"
 }
