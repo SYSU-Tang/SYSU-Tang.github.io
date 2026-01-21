@@ -1,7 +1,7 @@
 {
-  "version": 1929,
-  "versionName": "1.0.6",
+  "version": 1930,
+  "versionName": "1.0.7",
   "enforce": false,
-  "link": "https://sysu-tang.github.io/app-release-v1.0.6.apk",
-  "description": "# 1.0.6（1929）更新内容# 新增\n1. Markwon & Google  Analytic\n2. 资讯门户（需要校园网）\n3. 体育场馆预定（半成品，需要校园网）\n4. 崩溃跳转页面\n\n# 修复\n\n5. 面板页面闪退(#3 )\n6. 已选课程闪退\n7. 成绩界面闪退\n8. 无感登录后重复网络请求\n9. 更改浏览器界面\n10. seelight、体育场馆预定网站无法打开\n11. 考试表背景混乱"
+  "link": "https://sysu-tang.github.io/app-release-v1.0.7.apk",
+  "description": "# 1.0.7（1930）更新内容### 新增\n\n1. 校园网管理\n2. 离返校登记\n3. 选课预览功能\n\n### 修复\n\n1. 等级制查看成绩 （已失效）\n2. 新用户登录页面闪退\n3. 选课的一些BUGS"
 }
