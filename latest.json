@@ -1,7 +1,7 @@
 {
-  "version": 1930,
-  "versionName": "1.0.7",
+  "version": 1931,
+  "versionName": "1.0.8",
   "enforce": false,
-  "link": "https://sysu-tang.github.io/app-release-v1.0.7.apk",
-  "description": "# 1.0.7（1930）\n\n## 更新内容\n\n### 新增\n\n1. 校园网管理\n2. 离返校登记\n3. 选课预览功能\n\n### 修复\n\n1. 等级制查看成绩\n2. 新用户登录页面闪退\n3. 选课的一些BUGS"
+  "link": "https://sysu-tang.github.io/app-release-v1.0.8.apk",
+  "description": "### 新增\n\n1. 全校课称查询（服务->教务->课程）\n2. 等级制成绩（服务->教务->等级制成绩）\n3. 体测成绩查询、课外积分查询、游泳达标查询（服务->学业->体测）\n\n\n### 修复\n\n1. 选课的一些bugs"
 }
