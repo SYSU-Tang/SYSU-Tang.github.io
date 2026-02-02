@@ -17,3 +17,5 @@
     * [评教](/zh-cn/evaluation)
 
     * [面板](/zh-cn/dashboard)
+
+    * [成绩](/zh-cn/grade)

@@ -48,4 +48,6 @@
 
 ---
 
-* [评教](/zh-cn/evaluation)
+[评教](/zh-cn/evaluation)
+
+[成绩](/zh-cn/grade)

@@ -30,3 +30,6 @@
 
 ---
 
+[逸仙卡](/zh-cn/script)
+
+[面板](/zh-cn/dashboard)
