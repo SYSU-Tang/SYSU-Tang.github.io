@@ -8,5 +8,6 @@
   "majorVersion": 2,
   "minorVersion": 2,
   "isBeta": true,
-  "previewDescription": "> 这是beta版本\n\n### 功能\n\n- 修复 `HttpManager`不能初始化`CooKieManager`\n- 支持 检测预览版更新\n- 重构 `Java`为`Kotlin`\n- 修复 `离返校登记`登记时闪退\n- 修复 `校历`加载不出来\n- 修复 `校历`图片保存失败\n- 支持 `校历`在浏览器打开、复制图片链接"
+  "previewDescription": "> 这是beta版本\n\n### 功能\n\n- 修复 `HttpManager`不能初始化`CooKieManager`\n- 支持 检测预览版更新\n- 重构 `Java`为`Kotlin`\n- 修复 `离返校登记`登记时闪退\n- 修复 `校历`加载不出来\n- 修复 `校历`图片保存失败\n- 支持 `校历`在浏览器打开、复制图片链接",
+  "previewLink": "https://github.com/SYSU-Tang/Sysuer/releases/download/1.2.2-beta/app-release.apk"
 }
