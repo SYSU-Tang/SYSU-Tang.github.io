@@ -1,11 +1,12 @@
 {
   "version": 1937,
   "versionName": "1.2.0",
+  "enforce": false,
+  "link": "https://github.com/SYSU-Tang/Sysuer/releases/latest/download/app-release.apk",
+  "description": "### 目前已知问题：\n\n- 首次登录输入账号密码时需要**确认两次**后才会尝试登录时\n\n### 代码\n\n- 目前尝试用`Kotlin`代替`Java`\n- 采用全新的**账户管理机制**，密码加密存储，多账户存储\n\n### 功能\n\n- 修复 **评教**系统若干BUG\n- 修复 待办选择`类型`时重复选择`作业`\n- 修复 水电费**缴费**\n- 修复 面板的**考试列表**\n- 新增 **开发者选项**\n- 更新 部分使用指南\n- 修改 版本管理规则\n- 修复 更改字体、主题时不能及时改变\n\n### 界面\n\n- 修复 考试列表项目过宽\n- 优化 横屏下主页界面\n- 修复 首次使用时乱弹窗\n- 完善 图标配色",
   "generationVersion": 1,
   "majorVersion": 2,
-  "minorVersion": 0,
-  "enforce": false,
-  "isBeta": false,
-  "link": "https://github.com/SYSU-Tang/Sysuer/releases/latest/download/app-release.apk",
-  "description": "### 目前已知问题：\n\n- 首次登录输入账号密码时需要**确认两次**后才会尝试登录时\n\n### 代码\n\n- 目前尝试用`Kotlin`代替`Java`\n- 采用全新的**账户管理机制**，密码加密存储，多账户存储\n\n### 功能\n\n- 修复 **评教**系统若干BUG\n- 修复 待办选择`类型`时重复选择`作业`\n- 修复 水电费**缴费**\n- 修复 面板的**考试列表**\n- 新增 **开发者选项**\n- 更新 部分使用指南\n- 修改 版本管理规则\n- 修复 更改字体、主题时不能及时改变\n\n### 界面\n\n- 修复 考试列表项目过宽\n- 优化 横屏下主页界面\n- 修复 首次使用时乱弹窗\n- 完善 图标配色"
+  "minorVersion": 2,
+  "isBeta": true,
+  "previewDescription": "> 这是beta版本\n\n### 功能\n\n- 修复 `HttpManager`不能初始化`CooKieManager`\n- 支持 检测预览版更新\n- 重构 `Java`为`Kotlin`\n- 修复 `离返校登记`登记时闪退\n- 修复 `校历`加载不出来\n- 修复 `校历`图片保存失败\n- 支持 `校历`在浏览器打开、复制图片链接"
 }
