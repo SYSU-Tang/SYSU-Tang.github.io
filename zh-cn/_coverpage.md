@@ -9,5 +9,5 @@
 - 操作简单
 
 [项目](https://github.com/SYSU-Tang/sysuer)
-[开始](/zh-cn/)
+[开始](/zh-cn/#声明)
 [下载](https://SYSU-Tang.github.io/app-release-v1.0.1.apk)
