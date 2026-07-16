@@ -11,3 +11,11 @@
     * [登录](/zh-cn/login)
     
     * [逸仙卡](/zh-cn/sysu_card)
+
+    * [网页脚本](/zh-cn/script)
+
+    * [评教](/zh-cn/evaluation)
+
+    * [面板](/zh-cn/dashboard)
+
+    * [成绩](/zh-cn/grade)
