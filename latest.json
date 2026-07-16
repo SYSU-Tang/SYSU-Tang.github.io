@@ -1,13 +1,13 @@
 {
-  "version": 1938,
-  "versionName": "1.3.0",
+  "version": 1939,
+  "versionName": "1.4.0",
   "enforce": false,
   "link": "https://github.com/SYSU-Tang/Sysuer/releases/latest/download/app-release.apk",
-  "description": "### 功能\n\n- 修复 `HttpManager`不能初始化`CooKieManager`\n- 支持 检测预览版更新\n- 重构 `Java`为`Kotlin`\n- 修复 `离返校登记`登记时闪退\n- 修复 `校历`加载不出来\n- 修复 `校历`图片保存失败\n- 支持 `校历`图片在浏览器打开、复制链接\n- 修复 进入面板闪退\n- 修复 体育场馆在非校园环境下无法加载图片\n- 支持 非校园网环境下查看接诉即办\n- 添加 面板考试列表使用不同样式区分`当天`、`历史`、`未来`的考试\n- 添加 点击考试项目查看课程大纲\n- 添加 桌面长按图标的`设置`快捷方式，同时为快捷方式的图标添加背景颜色\n> 以后如果遇到进入面板闪退的bug,可以通过该方式进入设置页更新到最新版/预览版或者更改首页为`服务`或`我的`以便使用其他功能",
+  "description": "本人将几个功能写成一个[油猴脚本](https://github.com/SYSU-Tang/sysuer-script)，在支持脚本/扩展浏览器上可以安装此脚本，详细功能见https://github.com/SYSU-Tang/sysuer-script\n\n> 水电费因为学校的综合能源系统在维修，目前无法使用\n\n> 体育场馆的预约功能似乎无法下单预约\n\n> 如果有问题、建议，可以加入[QQ群](mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3Di4M0YfNzHskNiXgiYTAvA1EAWZh7HNQx)里反馈\n\n### 选课功能\n\n- 修复 选课不能加载更多、选课弹出系统异常的问题\n- 新增 体育志愿排序\n- 新增 预览界面高级筛选内容\n- 重构 高级筛选\n\n### 脚本\n\n- 重构 将多个脚本合并为一个油猴脚本\n- 兼容 油猴脚本的格式\n\n### 成绩\n\n- 支持 查看整个学期的成绩\n- 新增 点击打开课程大纲（仅限于1-18周前）\n\n### 考试列表\n\n- 修复 背景透明度不生效\n- 新增 点击打开课程大纲（仅限于1-18周前）\n\n### 待办\n\n> 提醒功能暂未完成\n\n- 支持 颜色、子任务、截至时间和提醒\n- 修复 若干问题\n- 重构 使用room3进行数据库操作\n- 修复 日历日期选中错误\n\n### 其他\n\n- 新增 课程表打开查看课程详情\n- 修复 主页数据加载不出来\n- 重构 将部分Java重构为Kotlin",
   "generationVersion": 1,
-  "majorVersion": 3,
-  "minorVersion": 2,
-  "isBeta": true,
-  "previewDescription": "- 修复 日历日期选中错误\n- 新增 待办添加子任务\n- 新增 待办自定义颜色\n- 新增 待办截止日期和时间提醒\n- 修复 待办若干bug\n- 修复 考试列表样式错误",
+  "majorVersion": 4,
+  "minorVersion": 0,
+  "isBeta": false,
+  "previewDescription": "",
   "previewLink": ""
 }
