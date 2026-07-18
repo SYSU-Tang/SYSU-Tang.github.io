@@ -6,8 +6,8 @@
   "description": "本人将几个脚本合并成一个[油猴脚本](https://github.com/SYSU-Tang/sysuer-script)，在支持脚本/扩展浏览器上可以安装此脚本，详细功能见[https://github.com/SYSU-Tang/sysuer-script](https://github.com/SYSU-Tang/sysuer-script)\n\n> 水电费因为学校的综合能源系统在维护，目前无法使用\n\n> 体育场馆的预约功能似乎无法下单预约\n\n> 如果有问题、建议，可以加入[QQ群](mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26jump_from%3Dwebapi%26k%3Di4M0YfNzHskNiXgiYTAvA1EAWZh7HNQx)里反馈\n\n### 选课功能\n\n- 修复 选课不能加载更多、选课弹出系统异常的问题\n- 新增 体育志愿排序\n- 新增 预览界面高级筛选内容\n- 重构 高级筛选\n\n### 脚本\n\n- 重构 将多个脚本合并为一个油猴脚本\n- 兼容 油猴脚本的格式\n\n### 成绩\n\n- 支持 查看整个学期的成绩\n- 新增 点击打开课程大纲（仅限于1-18周前）\n\n### 考试列表\n\n- 修复 背景透明度不生效\n- 新增 点击打开课程大纲（仅限于1-18周前）\n\n### 待办\n\n> 提醒功能暂未完成\n\n- 支持 颜色、子任务、截至时间和提醒\n- 修复 若干问题\n- 重构 使用room3进行数据库操作\n- 修复 日历日期选中错误\n\n### 其他\n\n- 新增 课程表打开查看课程详情\n- 修复 主页数据加载不出来\n- 重构 将部分Java重构为Kotlin",
   "generationVersion": 1,
   "majorVersion": 4,
-  "minorVersion": 1,
+  "minorVersion": 2,
   "isBeta": true,
-  "previewDescription": "> 这是beta版\n\n### 功能\n\n- 修复 成绩第一次进去不显示当前学期的排名和绩点\n- 新增 下载APP时状态栏提醒进度\n- 新增 雨课堂二维码登录\n- 修复 接诉即办上传文件功能\n- 收录 破壁计划",
+  "previewDescription": "> 此为beta版\n\n### 体育场馆预约系统\n\n> 因为作者平时不用体育场馆预约系统，不知道什么时候起体育场馆预约系统提高了解密难度，导致预约场地的功能失效；不过最后找到了888，解密过程梦回CTF\n\n- 修复 预约失败\n- 修复 预约列表闪退\n- 修复 预约列表取消后刷新\n\n### 待办\n\n- 修复 不显示待办\n\n### 其他\n\n- 修复 浏览器无法呼出输入法",
   "previewLink": ""
 }
