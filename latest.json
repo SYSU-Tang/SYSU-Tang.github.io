@@ -3,6 +3,6 @@
   "versionName": "2.2.0",
   "enforce": false,
   "link": "https://github.com/SYSU-Tang/Sysuer/releases/latest/download/app-release.apk",
-  "description": "# 2.1.1->2.2.0\n\n- 面板 新增时间线表\n- 待办 支持添加附件\n- 图片 支持自由查看\n- 资讯 砍掉过渡动画避\n- 雨课堂 支持下载课件\n- 课表 微调UI\n- 资料 收录`OpenISE`\n- 修复 下载和打开文件报错",
+  "description": "### 2.1.1->2.2.0\n\n- 面板 新增时间线表\n- 待办 支持添加附件\n- 图片 支持自由查看\n- 资讯 砍掉过渡动画避\n- 雨课堂 支持下载课件\n- 课表 微调UI\n- 资料 收录`OpenISE`\n- 修复 下载和打开文件报错",
   "previewLink": null
 }
